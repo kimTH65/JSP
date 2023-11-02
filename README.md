@@ -1,4 +1,4 @@
-# JSP(Seasar2 Framewalk)
+# JSP(Seasar2 Framework)
 Hands-On Experience : 2023/1 ~ 2022/7 <br><br>
 Experience : Maintenance, Development, Unit Test, Test
 
